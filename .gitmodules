@@ -1,0 +1,3 @@
+[submodule "helpful_rust"]
+	path = helpful_rust
+	url = https://github.com/HarlanHeilman/helpful_rust.git
